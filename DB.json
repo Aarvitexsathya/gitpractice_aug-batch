@@ -7,7 +7,8 @@
         "author": "aarvi",
         "bookname": "AWS & Devopsmaster",
         "Location": "India",
-        "State": "Karnataka"
+        "State": "Karnataka",
+        "Tags" : "AWS"
       }
     }
   }
